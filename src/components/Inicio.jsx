@@ -1,8 +1,13 @@
 export function Inicio(){
     return (
         <div id="inicio">
-        <img src="/neom-CzwL_vn445k-unsplash.jpg" alt="IMAGEN" />      
-        {/* <h1>iMAGEN</h1> */}
+        <img className="w-full h-screen object-cover object-left scale-x[-1]" src="/neom-CzwL_vn445k-unsplash.jpg" alt="IMAGEN" />      
+        <div className="w'full h-screen top-0 lef-0 bg-white/50">
+            <div>
+                <h>Yo soy Jonn Oliver</h>
+                <h></h>
+            </div>
+        </div>    
         </div>
     )
 }
