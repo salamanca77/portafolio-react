@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "year": 2022,
+        "title": "Contador",
+        "duration": "2 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 2,
+        "year": 2020,
+        "title": "Desarrollador",
+        "duration": "3 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 3,
+        "year": 2019,
+        "title": "Administrador de base de datos",
+        "duration": "1 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 4,
+        "year": 2016,
+        "title": "Call center",
+        "duration": "3 meses",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 5,
+        "year": 2015,
+        "title": "Programador",
+        "duration": "1.5 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 6,
+        "year": 2011,
+        "title": "Tecnico de programacion",
+        "duration": "3 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 7,
+        "year": 2010,
+        "title": "Axuliar de almacen",
+        "duration": "2 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    },
+    {
+        "id" : 8,
+        "year": 2009,
+        "title": "Secretario",
+        "duration": "2 anios",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, blanditiis exercitationem! Accusamus, nulla alias? Tempore blanditiis voluptatum temporibus tempora commodi amet odit quisquam. Facilis accusamus eaque, quaerat magnam similique molestiae!"
+    }
+]
