@@ -12,7 +12,7 @@ export function Proyecto(){
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus excepturi itaque et distinctio consectetur tempore hic, repellendus perspiciatis sunt inventore rem suscipit est corrupti recusandae perferendis quo eligendi mollitia corporis.
             </p>
 
-            <div className="proyecto">
+            <div className="grid grid-cols-fill gap-[50px]">
                 <ProyectoItem img={ProyectoUno} title="Proyecto uno"/>
                 <ProyectoItem img={ProyectoUno} title="Proyecto dos"/>
                 <ProyectoItem img={ProyectoUno} title="Proyecto tres"/>
