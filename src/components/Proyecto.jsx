@@ -4,8 +4,8 @@ import "./Proyectos.css"
 
 export function Proyecto(){
     return (
-        <div className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
-            <h1 className="text-4xl font-bol text-center text-[#001b5e]">
+        <div id="proyecto" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
+            <h1 className="text-4xl font-bold text-center text-[#001b5e]">
                 Proyectos
             </h1>
             <p className="text-center py-8">

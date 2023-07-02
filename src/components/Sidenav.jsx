@@ -20,23 +20,23 @@ export function Sidenav() {
 
             {nav ? (
                 <div className="fixed w-full h-screen bg-white/90 flex flex-col justify-center items-center z-20">
-                    <a href="#inicio" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
+                    <a onClick={handleNav} href="#inicio" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
                         <HiHome size={20} />
                         <span className="pl-4">Inicio</span>
                     </a>
-                    <a href="#trabajo" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
+                    <a onClick={handleNav} href="#trabajo" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
                         <LuNetwork size={20} />
                         <span className="pl-4">Trabajo</span>
                     </a>
-                    <a href="#proyecto" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
+                    <a onClick={handleNav} href="#proyecto" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
                         <FaBuffer size={20} />
                         <span className="pl-4">Proyecto</span>
                     </a>
-                    <a href="#resumen" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
+                    <a onClick={handleNav} href="#resumen" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
                         <BsFillPersonVcardFill size={20} />
                         <span className="pl-4">Resumen</span>
                     </a>
-                    <a href="#contacto" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
+                    <a onClick={handleNav} href="#contacto" className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-400 m-2 p-4 cursor-pointer-110  hover:scale-110 ease-in duration-200">
                         <AiOutlineMail size={20} />
                         <span className="pl-4">Contacto</span>
                     </a>
