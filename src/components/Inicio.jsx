@@ -5,7 +5,7 @@ export function Inicio() {
         <div id="inicio">
             <img className="w-full h-screen object-cover object-left scale-x-[-1]" src="/neom-CzwL_vn445k-unsplash.jpg" alt="IMAGEN" />
             <div className="w-full absolute h-screen top-0 lefl-0 bg-white/50">
-                <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-center  items-center">
+                <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-center items-center">
                     <h1>Yo soy Jonn Oliver</h1>
                     <h2>Saludos</h2>
                     <TypeAnimation
